@@ -129,6 +129,30 @@ section {
     margin-bottom: var(--bottom-margin-2);
 }
 
+.title {
+  text-align: center;
+}
+
+.title-desc {
+  text-align: center;
+}
+
+.donate-foot {
+  margin-top: 126px;
+}
+
+.index-foot {
+  margin-top: 100px;
+}
+
+.num {
+  font-weight: bold;
+}
+
+.form {
+  text-align: center;
+}
+
 footer {
     background-color: var(--bg-color);
     padding: 1rem;

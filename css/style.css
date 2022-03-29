@@ -82,6 +82,14 @@ body {
   padding: 16px;
 }
 
+.q, .r, .m {
+  padding: 30px 16px 30px 16px;
+}
+
+.m {
+  text-align: center;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -145,11 +153,20 @@ section {
   margin-top: 100px;
 }
 
+.tracker-foot {
+  margin-top: 80px;
+}
+
 .num {
   font-weight: bold;
 }
 
 .form {
+  text-align: center;
+}
+
+.inputs {
+  font-size: 15px;
   text-align: center;
 }
 
